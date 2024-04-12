@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋<br>My name is Anand Kumar ;<br>I'm a fullstack developer { open to work } ;</h2>
+<h2 align="left">Hi 👋<br>My name is Anand Kumar ;<br>I'm a fullstack developer {} ;</h2>
 
 ###
 
